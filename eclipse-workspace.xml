@@ -12,7 +12,7 @@
                 <attribute name="Main-Class" value="com.aizatron.mtn.phone.Launcher"/>
                 <attribute name="Class-Path" value=". phonelib_lib/javax.servlet-api-3.0.1.jar phonelib_lib/libphonenumber-8.12.52.jar phonelib_lib/spark-core-2.9.4.jar phonelib_lib/prefixmapper-2.188.jar phonelib_lib/carrier-1.178.jar phonelib_lib/geocoder-2.188.jar phonelib_lib/log4j-api-2.18.0.jar phonelib_lib/log4j-core-2.18.0.jar phonelib_lib/log4j-1.2-api-2.18.0.jar phonelib_lib/jetty-io-9.4.48.v20220622.jar phonelib_lib/jetty-servlets-9.4.48.v20220622.jar phonelib_lib/jetty-xml-9.4.48.v20220622.jar phonelib_lib/jetty-http-9.4.48.v20220622.jar phonelib_lib/jetty-client-9.4.48.v20220622.jar phonelib_lib/jetty-security-9.4.48.v20220622.jar phonelib_lib/jetty-unixsocket-9.4.48.v20220622.jar phonelib_lib/jetty-proxy-9.4.48.v20220622.jar phonelib_lib/jetty-schemas-3.1.jar phonelib_lib/jetty-plus-9.4.48.v20220622.jar phonelib_lib/jetty-servlet-9.4.48.v20220622.jar phonelib_lib/servlet-api-3.1.jar phonelib_lib/jetty-server-9.4.48.v20220622.jar phonelib_lib/jetty-util-9.4.48.v20220622.jar phonelib_lib/jetty-webapp-9.4.48.v20220622.jar phonelib_lib/jetty-deploy-9.4.48.v20220622.jar phonelib_lib/jetty-cdi-9.4.48.v20220622.jar phonelib_lib/jetty-annotations-9.4.48.v20220622.jar phonelib_lib/log4j-slf4j-impl-2.18.0.jar phonelib_lib/log4j-over-slf4j-1.7.9.jar phonelib_lib/slf4j-api-1.7.9.jar phonelib_lib/guava-31.1-jre.jar"/>
             </manifest>
-            <fileset dir="/Users/neels/IdeaProjects/Phonelib/out/production/untitled104"/>
+            <fileset dir="/Users/test/IdeaProjects/Phonelib/out/production/untitled104"/>
         </jar>
         <delete dir="${dir.jarfile}/phonelib_lib"/>
         <mkdir dir="${dir.jarfile}/phonelib_lib"/>
